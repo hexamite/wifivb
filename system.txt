@@ -1,0 +1,7 @@
+device		<X128f6>
+wifi 		<10.10.100.254>
+xport		<8899>		
+`usb 		<COM9>			
+timeout		<6>
+`bin		<1>			
+log		<hx7alog.txt>			
